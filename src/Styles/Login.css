@@ -1,0 +1,12 @@
+.flexBox {
+    display: flex;
+    flex-direction: column;
+
+
+}
+.login {
+    padding-left: 35%;
+    width: 30%;
+    padding-top: 25px;
+
+}
